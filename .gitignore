@@ -1,3 +1,11 @@
+venv
+py/backbone/*
+py/data/*
+py/model/*
+cpp/build
+
+.idea
+
 # Prerequisites
 *.d
 
